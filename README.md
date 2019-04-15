@@ -1,2 +1,2 @@
 # Google-Places-Scrapper-in-Python-and-Hunter
-A project that I coded to scrap google businesses and places using Google Places API 
+A project that I coded to scrap google businesses and places using Google Places API. The intitialy idea came to SCRAP businesses of different niche that exists in Peshawar or near by, for examples software companies, restaurent, hotels, beauty parlour etc and later on expanded to a wide ranges of niches and several different districts of Khyber Pakhtunkhwa.
